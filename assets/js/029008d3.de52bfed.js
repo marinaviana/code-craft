@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_craft=self.webpackChunkcode_craft||[]).push([[8125],{6465:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/code-craft/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
