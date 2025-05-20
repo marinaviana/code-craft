@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcode_craft=self.webpackChunkcode_craft||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/code-craft/blog","blogTitle":"Blog","authorsListPath":"/code-craft/blog/authors"}')}}]);
