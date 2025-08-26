@@ -2,14 +2,13 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+npm install --save-dev gh-pages
+
 ### Installation
 ```
 npm install
 ```
 
-```
-$ yarn
-```
 
 
 ### Local Development
@@ -17,9 +16,6 @@ $ yarn
 npm run start
 ```
 
-```
-$ yarn start
-```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
